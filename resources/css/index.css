@@ -1,0 +1,12 @@
+#header {
+    background-image: url('../images/pattern.jpeg');
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    font-size: 80px;
+    color: yellow;
+}
+#brushes {
+    text-align: left;
+    background-color: green;
+}
